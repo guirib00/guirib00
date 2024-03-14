@@ -18,6 +18,6 @@ Olá, meu nome é Guilherme Ribeiro Souza, um professor de informatica e estudan
 
 ## Entre em Contato
 
-- [LinkedIn] https://www.linkedin.com/in/guilherme-ribeiro-souza-03696a26a/
-- [Instagram] https://www.instagram.com/gui_rib00/
-- [Email] guilhermerib2013@hotmail.com
+- [LinkedIn] (https://www.linkedin.com/in/guilherme-ribeiro-souza-03696a26a/)
+- [Instagram] (https://www.instagram.com/gui_rib00/)
+- [Email] (mailto:guilhermerib2013@hotmail.com)
