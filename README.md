@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil do GitHub! 👋
 
-Olá, meu nome é Guilherme Ribeiro Souza, um professor de informatica e estudante de Analise e Desenvolvimento de sistemas apaixonado por tecnologia e programação. Este é o meu espaço onde compartilho projetos criados por mim e aprendizados.
+Olá, meu nome é Guilherme Ribeiro Souza, estudante de Analise e Desenvolvimento de sistemas apaixonado por tecnologia e programação. Este é o meu espaço onde compartilho projetos criados por mim e aprendizados.
 
 ## Sobre mim
 
