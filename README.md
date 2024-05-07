@@ -18,6 +18,6 @@ Olá, meu nome é Guilherme Ribeiro Souza, estudante de Analise e Desenvolviment
 
 ## Entre em Contato
 
-- [LinkedIn] (https://www.linkedin.com/in/guilherme-ribeiro-souza-03696a26a/)
-- [Instagram] (https://www.instagram.com/gui_rib00/)
-- [Email] (mailto:guilhermerib2013@hotmail.com)
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-ribeiro-souza-03696a26a/)
+- [![Instagram](https://img.shields.io/badge/instagram-%230077B5.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gui_rib00/)
+- [![E-mail](https://img.shields.io/badge/-Email-0077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:guilhermerib2013@hotmail.com)
